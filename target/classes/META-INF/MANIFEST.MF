@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1582044933238
+Build-Jdk: 1.8.0_111
+Built-By: USER
+Bundle-Description: Proyecto Camel Generado a partir de un Archetype par
+ a JBoss Fuse Avianca
+Bundle-ManifestVersion: 2
+Bundle-Name: AVI :: ConsumirRest
+Bundle-SymbolicName: com.consumo.rest.consumirRest
+Bundle-Version: 1.0.2
+Created-By: Apache Maven Bundle Plugin
+Import-Package: com.fasterxml.jackson.annotation;version="[2.4,3)",com.f
+ asterxml.jackson.databind.annotation;version="[2.4,3)",com.fasterxml.ja
+ ckson.jaxrs.json;version="[2.4,3)",javax.ws.rs;version="[2.0,3)",javax.
+ ws.rs.core;version="[2.0,3)",org.apache.camel;version="[2.15,3)",org.ap
+ ache.camel.component.metrics;version="[2.15,3)",org.apache.camel.compon
+ ent.metrics.routepolicy;version="[2.15,3)",org.slf4j;version="[1.7,2)",
+ org.springframework.beans.factory.config,org.springframework.stereotype
+Tool: Bnd-1.50.0

@@ -1,0 +1,6 @@
+com\ruda\coco\rest\dto\RequestDTO.class
+com\ruda\coco\rest\processor\PrepareMailingNotificationProcessor.class
+com\ruda\coco\rest\handler\ResponseHandler.class
+com\ruda\coco\rest\processor\RecuperarRequest.class
+com\ruda\coco\rest\service\RestService.class
+com\ruda\coco\rest\dto\ResponseDTO.class
